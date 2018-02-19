@@ -1,0 +1,45 @@
+.parti-rate {
+  background-color: #ffffff;
+  margin: 20px 10px;
+  padding: 20px;
+  width: 40%;
+  min-width: 400px;
+}
+
+.parti-rate .title {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.parti-rate .title p {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.parti-rate .title p span {
+  color: #2c3fe7;
+}
+
+.parti-rate .title span {
+  font-size: 20px;
+  color: #e1793c;
+}
+
+.parti-rate span {
+  font-size: 12px;
+}
+
+.parti-rate button {
+  border: 2px solid #71717c;
+  display: block;
+  margin: 20px auto;
+  font-size: 16px;
+  padding: 5px 20px;
+  border-radius: 20px;
+}
+
+.parti-rate .chart {
+  margin: 20px 0;
+}

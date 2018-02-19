@@ -1,0 +1,21 @@
+.navbar {
+  list-style-type: none;
+  border: 1px solid #01080c;
+  background-color: #137ab6;
+  width: min-content;
+  margin: 0;
+  padding: 0;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+}
+
+.navbar li {
+  border-bottom: 1px solid #ffffff;
+  padding: 10px;
+  text-align: center;
+}
+.navbar li div {
+  font-size: 24px;
+  margin-bottom: 5px;
+}
